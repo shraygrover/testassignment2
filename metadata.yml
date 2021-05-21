@@ -1,0 +1,14 @@
+---
+:id: 77995165
+:submitters:
+- :name: Shray Grover
+  :email: sgrov005@ucr.edu
+- :name: Cristina Lawson
+  :email: claws004@ucr.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-05-03 06:54:39.728939000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-05-02 23:54:39.728939000 Z
+:status: processed
+:score: 105.0
